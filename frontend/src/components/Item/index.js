@@ -8,7 +8,6 @@ import {
   ITEM_PAGE_LOADED,
   ITEM_PAGE_UNLOADED,
 } from "../../constants/actionTypes";
-
 import placeholderImage from "../../imgs/placeholder.png"
 
 const mapStateToProps = (state) => ({
